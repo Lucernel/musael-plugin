@@ -1,0 +1,15 @@
+{
+  "name": "lucernel",
+  "description": "Plugins by Lucernel LLC",
+  "owner": {
+    "name": "Lucernel LLC",
+    "email": "support@musael.com"
+  },
+  "plugins": [
+    {
+      "name": "musael",
+      "source": "./musael",
+      "description": "Plan novels and stories in Musael: projects, Plan and World from the chat; with manuscript access, read the manuscript and suggest edits."
+    }
+  ]
+}

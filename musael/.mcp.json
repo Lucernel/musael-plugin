@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "musael": {
+      "type": "http",
+      "url": "https://app.musael.com/api/mcp"
+    }
+  }
+}

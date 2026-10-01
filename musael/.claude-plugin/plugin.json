@@ -1,0 +1,24 @@
+{
+  "name": "musael",
+  "displayName": "Musael",
+  "version": "1.0.0",
+  "description": "Plan novels and stories in Musael from ChatGPT or Claude: start a project from an idea, add acts, chapters and scenes, save characters and places to its World, and, where the account includes it, read the manuscript, check a chapter and suggest edits the writer reviews.",
+  "author": {
+    "name": "Lucernel LLC",
+    "email": "support@musael.com",
+    "url": "https://musael.com"
+  },
+  "homepage": "https://musael.com/help/connect-chatgpt-and-claude",
+  "repository": "https://github.com/Lucernel/musael-plugin",
+  "license": "MIT",
+  "keywords": [
+    "writing",
+    "novel",
+    "fiction",
+    "story",
+    "outline",
+    "worldbuilding",
+    "story bible",
+    "manuscript"
+  ]
+}
