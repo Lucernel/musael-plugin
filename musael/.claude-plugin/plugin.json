@@ -10,6 +10,7 @@
   },
   "homepage": "https://musael.com/help/connect-chatgpt-and-claude",
   "repository": "https://github.com/Lucernel/musael-plugin",
+  "privacyPolicyUrl": "https://musael.com/privacy",
   "license": "MIT",
   "keywords": [
     "writing",
