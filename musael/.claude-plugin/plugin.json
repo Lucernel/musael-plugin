@@ -8,9 +8,12 @@
     "email": "support@musael.com",
     "url": "https://musael.com"
   },
-  "homepage": "https://musael.com/help/connect-chatgpt-and-claude",
+  "homepage": "https://musael.com",
   "repository": "https://github.com/Lucernel/musael-plugin",
+  "documentationUrl": "https://musael.com/help/connect-chatgpt-and-claude",
+  "supportUrl": "https://musael.com/help",
   "privacyPolicyUrl": "https://musael.com/privacy",
+  "termsOfServiceUrl": "https://musael.com/terms",
   "license": "MIT",
   "keywords": [
     "writing",
